@@ -13,7 +13,7 @@ I am currently working on my final project for **Harvard’s CS50x**, where I le
 - React functional components & hooks (`useState`, `useEffect`)  
 - Controlled forms and client-side persistence with `localStorage`  
 - Focused on clean, maintainable component architecture  
-- [Live Demo](YOUR_DEPLOY_LINK) | [GitHub Repo](YOUR_REPO_LINK)
+- [Live Demo](YOUR_DEPLOY_LINK) | [GitHub Repo](https://github.com/b-poole/task-manager)
 
 ---
 
@@ -38,7 +38,7 @@ I am currently working on my final project for **Harvard’s CS50x**, where I le
 
 - **LinkedIn:** [linkedin.com/in/barrett-poole-630a3a145](https://linkedin.com/in/barrett-poole-630a3a145)  
 - **Email:** barrettpoole14@gmail.com 
-- **Portfolio:** yourportfolio.com  
+- **Portfolio:** TODO  
 
 ---
 
